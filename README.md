@@ -23,4 +23,4 @@ author's github source repo: <a href="https://github.com/ageron/handson-ml2">cli
 
 ### 2부. DL
 
-10. 케라스를 통한 신경망에 대한 소개(11/3~)
+10. <a href="https://github.com/JerryKwon/handson-ml2-review/blob/main/part2.%20DL/10.%20%EC%BC%80%EB%9D%BC%EC%8A%A4%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%9C%20%EC%9D%B8%EA%B3%B5%20%EC%8B%A0%EA%B2%BD%EB%A7%9D%20%EC%86%8C%EA%B0%9C.ipynb">케라스를 통한 신경망에 대한 소개</a>(11/3~)
