@@ -30,5 +30,5 @@ author's github source repo: <a href="https://github.com/ageron/handson-ml2">cli
 14. 합성곱 신경망을 사용한 컴퓨터 비전
 15. RNN과 CNN을 사용해 시퀀스 만들기
 16. RNN과 어텐션을 사용한 자연어 처리
-17. <a href="part2.\ DL/17.\ 오토인코더와\ GAN을\ 사용한\ 표현\ 학습과\ 생성적\ 학습/17.\ 오토인코더와\ GAN을\ 사용한\ 표현\ 학습과\ 생성적\ 학습.ipynb">오토인코더와 GAN을 사용한 표현 학습과 생성적 학습</a>(12/9~)
+17. <a href="part2.%20DL/17.%20오토인코더와%20GAN을%20사용한%20표현%20학습과%20생성적%20학습/17.%20오토인코더와%20GAN을%20사용한%20표현%20학습과%20생성적%20학습.ipynb">오토인코더와 GAN을 사용한 표현 학습과 생성적 학습</a>(12/9~)
 18. <a href="https://github.com/JerryKwon/handson-ml2-review/blob/main/part2.%20DL/18.%20%EA%B0%95%ED%99%94%20%ED%95%99%EC%8A%B5/18.%20%EA%B0%95%ED%99%94%20%ED%95%99%EC%8A%B5.ipynb">강화 학습</a>(11/6~11/24) 
